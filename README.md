@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @ravimishra007
+<h1>Hi👋, Ravi Mishra<h1/>
+<!-- <h1><h1/>
+ -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=F7781A&random=false&width=435&lines=I'm+a+Full+Stack+developer" alt="Typing SVG" /></a>
+
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
