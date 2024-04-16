@@ -2,7 +2,7 @@
 
 
 <p ><h1 align="center">Hi👋, I'm Ravi Mishra</h1><p/>  
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7781A&random=false&width=435&lines=I'm+a+Full+Stack+Developer;I'm+a+MERN+Stack+Developer" alt="Typing SVG" /   ></a>
+<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7781A&random=false&width=435&lines=I'm+a+Full+Stack+Developer+👨🏻‍💻;I'm+a+MERN+Stack+Developer+👨🏻‍💻" alt="Typing SVG" /   ></a>
 
   
 - 👀 I’m interested in ...
