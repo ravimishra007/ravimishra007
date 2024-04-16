@@ -11,14 +11,13 @@
 - 📫 How to reach me : <a href="https://linkedin.com">ravimishra007<a/>
 
 - 😄 Pronouns: ...
-
+<br>
 <!---
 ravimishra007/ravimishra007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-01:ntly working on: Developing dynamic web solutions using the MERN Stack.<br>02: Looking to collaborate on: Exciting web development projects where I can contribute my skills and expertise.<br>03: Looking for help with: Enhancing my problem-solving abilities and learning advanced web development techniques.<br>04: Currently learning: Advanced concepts in web development to further improve my skills.<br>05: Ask me about: Anything related to MERN Stack development or web development in general.<br><br><br><br><br><br>
-
+Energetic, skilled Full Stack Web Developer adept in MERN Stack with 800+ hours of coding practice. Proficient in solo and collaborative project development. Strong problem-solving, communication, and teamwork skills. Ready to leverage expertise in creating dynamic and efficient web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravimishra007/) 
@@ -40,10 +39,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=ravimishra007&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
