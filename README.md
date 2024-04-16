@@ -5,17 +5,18 @@
 
   
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning advanced concepts in web development to further improve my skills.
+- 💞️ I’m looking to collaborate on exciting web development projects where I can contribute my skills and expertise.
+- ⚡ Currently working on developing dynamic web solutions using the MERN Stack.
+- 📫 How to reach me : <a href="https://linkedin.com">ravimishra007<a/>
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ravimishra007/ravimishra007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#  Curre💫 About Me:
+# 💫 About Me:
 01:ntly working on: Developing dynamic web solutions using the MERN Stack.<br>02: Looking to collaborate on: Exciting web development projects where I can contribute my skills and expertise.<br>03: Looking for help with: Enhancing my problem-solving abilities and learning advanced web development techniques.<br>04: Currently learning: Advanced concepts in web development to further improve my skills.<br>05: Ask me about: Anything related to MERN Stack development or web development in general.<br><br><br><br><br><br>
 
 
