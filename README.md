@@ -15,7 +15,6 @@
 - 😄 Pronouns: ... <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravimishra007&label=Profile%20views&color=0e75b6&style=flat" alt="ravimishra007" /> </p>
 
-  <br>
  <p><h1> 💫About Me:</h1> <p/>
 
 Energetic, skilled Full Stack Web Developer adept in MERN Stack with 800+ hours of coding practice. Proficient in solo and collaborative project development. Strong problem-solving, communication, and teamwork skills. Ready to leverage expertise in creating dynamic and efficient web solutions. <br>  <br>
