@@ -15,7 +15,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravimishra007&label=Profile%20views&color=0e75b6&style=flat" alt="ravimishra007" /> </p>
 
  <p><h1> 💫About Me:</h1> <p/>
- Energetic, skilled Full Stack Web Developer adept in MERN Stack with 800+ hours of coding practice. Proficient in solo and collaborative project development. Strong problem-solving, communication, and teamwork skills. Ready to leverage expertise in creating dynamic and efficient web solutions. <br>  <br>
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures 💡..
+ <br>  <br>
 
 <p><h1>🌐 Socials:  </h1><p/>
 
