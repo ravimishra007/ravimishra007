@@ -21,11 +21,17 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <p><h1>🌐 Socials:  </h1><p/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravimishra007/) 
-<a href="ravi2020mishra@gmail.com" target="_blank"> 
+<a  href="https://www.linkedin.com/in/ravimishra007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
+<a href="mailto:ravi2020mishra@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
- <br>  <br>
+<a href="https://ravimishra007.github.io/Portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="ravi" />
+</a>
+
+</a> <br>  <br>
 
  <p><h1>💻 Tech Stack: </h1><p/>
 
