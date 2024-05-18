@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning advanced concepts in web development to further improve my skills.
 - 💞️ I’m looking to collaborate on exciting web development projects where I can contribute my skills and expertise.
 - ⚡ Currently working on developing dynamic web solutions using the MERN Stack.
-- 📫 My Portfolio : <a href="https://ravimishra007.github.io/Portfolio/">Portfolio<a/>
-- 📫 How to reach me : <a href="https://gmail.com">ravi2020mishra@gmail.com<a/>
+- 📫 My Portfolio : <a href="https://ravimishra007.github.io/Portfolio/" target="_blank">Portfolio<a/>
+- 📫 How to reach me : <a href="https://gmail.com" target="_blank">ravi2020mishra@gmail.com<a/>
  <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravimishra007&label=Profile%20views&color=0e75b6&style=flat" alt="ravimishra007" /> </p>
 
