@@ -49,6 +49,18 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravimishra007&theme=dark" alt="ravimishra007" /></p>  <br>
 
+### 📊 GitHub Stats :
+
+<p >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyahatele&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="supriya" height="139"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravimishra007&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="ravi" height="139" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyahatele&theme=dark" alt="supriya" /></p>
+<br>
+<br>
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ravimishra007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  <br>
