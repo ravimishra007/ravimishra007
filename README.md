@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning advanced concepts in web development to further improve my skills.
 - 💞️ I’m looking to collaborate on exciting web development projects where I can contribute my skills and expertise.
 - ⚡ Currently working on developing dynamic web solutions using the MERN Stack.
-- 📫 My Resume : <a href="https://drive.google.com/file/d/11D6QKSb48Ndq4XXA9i3zCL2NS1GRl2n-/view" target="_blank">Resume<a/>
+- 📫 My Resume : <a href="https://drive.google.com/file/d/1H8YSrCP0h9QYALPROIP6dgAaPxa3YQU8/view" target="_blank">Resume<a/>
 - 📫 My Portfolio : <a href="https://ravimishra007.github.io/Portfolio/" target="_blank">Portfolio<a/>
 - 📫 How to reach me : <a href="https://gmail.com" target="_blank">ravi2020mishra@gmail.com<a/>
  <br>
